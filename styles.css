@@ -40,6 +40,7 @@ main {
 
 .goals, .links {
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .links ul {
